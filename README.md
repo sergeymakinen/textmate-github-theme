@@ -1,6 +1,9 @@
-TextMate GitHub Theme
-=====================
+# TextMate GitHub 3 theme
 
-TextMate / Sublime Text theme inspired by the GitHub 2014 syntax highlighting style.
+TextMate / Sublime Text theme inspired by the GitHub syntax highlighting style (version 3).
 
-![PHP](README - PHP.png)
+## Screenshots
+
+![PHP](Screenshot - PHP.png)
+
+![Python](Screenshot - Python.png)

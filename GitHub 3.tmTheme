@@ -16,9 +16,9 @@
 		<string>#B0B0B0</string>
 	</dict>
 	<key>name</key>
-	<string>GitHub</string>
+	<string>GitHub 3</string>
 	<key>semanticClass</key>
-	<string>theme.light.git_hub</string>
+	<string>theme.light.git_hub_3</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#df5000</string>
+				<string>#183691</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#df5000</string>
+				<string>#0086b3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -306,7 +306,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DF5000</string>
+				<string>#183691</string>
 			</dict>
 		</dict>
 		<dict>
@@ -337,6 +337,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>author</key>
-	<string>Sergey Reznikov</string>
+	<string>Sergey Makinen</string>
 </dict>
 </plist>
