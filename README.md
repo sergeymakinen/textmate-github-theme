@@ -4,6 +4,6 @@ TextMate / Sublime Text theme inspired by the GitHub syntax highlighting style (
 
 ## Screenshots
 
-![PHP](Screenshot - PHP.png)
+![PHP](Screenshot%20-%20PHP.png)
 
-![Python](Screenshot - Python.png)
+![Python](Screenshot%20-%20Python.png)
